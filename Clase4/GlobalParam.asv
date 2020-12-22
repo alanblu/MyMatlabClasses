@@ -1,0 +1,12 @@
+close all
+clear all
+home
+clc
+
+global Jeq Beq...
+
+Ri=19.8;
+Li=91.7e-3;
+Jeq=7.7463e-4;
+Beq=2.5821e-4;
+k=0.06;
